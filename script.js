@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "You got Rickrolled 😘 (FOLLOW ME @kristel_tech or 7 years bad luck)";
+  question.innerHTML = "Haha yes you love me!)";
   gif.src = "ezgif.com-animated-gif-maker.gif";
 });
 
